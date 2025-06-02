@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image\logo.png" alt="Your App Logo" width="200"/>
+  <img src="image/logo.png" alt="Your App Logo" width="200"/>
 </p>
 
 # Mobile App Testing Automation with Appium
