@@ -1,1 +1,3 @@
-image/
+image/*
+!image/logo.png
+# Ignore all image files except logo.png
