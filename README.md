@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image\WhatsApp_Image_2025-04-13_at_20.44.43_5af0ef37-removebg-preview 2.png" alt="Your App Logo" width="200"/>
+  <img src="image\logo.png" alt="Your App Logo" width="200"/>
 </p>
 
 # Mobile App Testing Automation with Appium
